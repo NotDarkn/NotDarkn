@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! Welcome to my Github.👋
 
-<!--
-**NotDarkn/NotDarkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I am currently a 14-year-old user who takes interests in **archives**, **jailbreak**, and **osu!**
 
-Here are some ideas to get you started:
+![Darkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=notdarkn&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Fools around with easy code, bat files, and tests stuff.
+
+📖 My Discord Server for Resources: https://discord.gg/ER8saRhYpg
+
+❤ If you wish to "support" me, then that's too bad, cause you can't. Thanks for trying to though.
+
+🙏Thanks for reading! Enjoy all of the public repo's I have on this account.
