@@ -18,7 +18,7 @@ Here are some of my stats! I don't use GitHub very much, so it's not a lot.
 - Fooling around with .bat files on Windows.
 
 ### Contacts :mailbox:
-- [United Testing](https://discord.gg/ER8saRhYpg) on Discord
+- [notdarkn#7188](https://discord.gg/ER8saRhYpg) on Discord
 - [Darkn](https://steamcommunity.com/id/notdarkn/) on Steam
 - [@notdarkn](https://twitter.com/notdarkn) on Twitter
 
