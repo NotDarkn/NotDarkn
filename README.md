@@ -1,7 +1,5 @@
 ### Hello! Welcome to my Github.👋
-
-Here are some of my stats! I don't use GitHub very much, so it's not a lot.
-![Darkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=NotDarkn&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=true)
+There isn't much here, like at all.
 
 ### About Me :star2:
 🌱 I am currently a 14-year-old user who takes interests in:
