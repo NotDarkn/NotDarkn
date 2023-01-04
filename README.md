@@ -1,6 +1,3 @@
-### Hello! Welcome to my Github.👋
-There isn't much here, like at all.
-
 ### About Me :star2:
 🌱 I am currently a 14-year-old user who takes interests in:
 - osu!
