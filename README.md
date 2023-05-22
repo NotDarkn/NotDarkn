@@ -9,7 +9,7 @@
 🛠️ I like to fool around with the following:
 - HTML/CSS
 - Testing Exploits & UIs
-- Using multiple Jailbreaks
+- Using Jailbreaks
 
 ### Contacts :mailbox:
 - [notdarkn#7188](https://discord.gg/ER8saRhYpg) on Discord
