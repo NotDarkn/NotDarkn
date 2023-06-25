@@ -12,7 +12,7 @@
 - Using Jailbreaks
 
 ### Contacts :mailbox:
-- [notdarkn#7188](https://discord.gg/ER8saRhYpg) on Discord
+- [notdarkn](https://discord.gg/ER8saRhYpg) on Discord
 - [Darkn](https://steamcommunity.com/id/notdarkn/) on Steam
 - [@notdarkn](https://twitter.com/notdarkn) on Twitter
 
