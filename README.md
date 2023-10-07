@@ -27,8 +27,8 @@
 
   <hr>
     <h3 align="center">
-        <a href="https://github.com/NotDarkn/XinaA15">XinaA15 Reworded</a><
-    /h3>
+        <a href="https://github.com/NotDarkn/XinaA15">XinaA15 Reworded</a>
+    </h3>
     <p align="center">
         Full remake of an unprofessional-looking XinaA15 GitHub to something proper.
     </p>
