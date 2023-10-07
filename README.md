@@ -11,10 +11,10 @@
             > p.s: if anything looks broken, sorry not sorry <
         </i>
     </p>
-      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left" width="32%" height="auto">
-      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-light-mode-only" align="left" width="32%" height="auto">
-      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right" width="32%" height="auto">
-      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-light-mode-only" align="right" width="32%" height="auto">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left" width="35%" height="auto">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-light-mode-only" align="left" width="35%" height="auto">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right" width="35%" height="auto">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-light-mode-only" align="right" width="35%" height="auto">
   <hr>
     <h3 align="center"><a href="https://github.com/NotDarkn/website">Darkn's Website</a></li></h3>
     <p align="center">Website full of rehosts, propaganda, downloads, and many more, all for anybody to see.</p>
