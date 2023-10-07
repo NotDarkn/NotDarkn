@@ -6,6 +6,10 @@
     </p>
     <p align="center">
       Below is a list of repositories that I'm happy about including some statistics.
+        <br>
+        <i>
+            > p.s: if anything looks broken, sorry not sorry <
+        </i>
     </p>
       <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left" width="32%" height="auto">
       <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-light-mode-only" align="left" width="32%" height="auto">
