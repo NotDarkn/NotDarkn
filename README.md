@@ -7,6 +7,10 @@
     <p align="center">
       Below is a list of repositories that I'm happy about including some statistics.
     </p>
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-dark-mode-only" align="left">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/overview.svg#gh-light-mode-only" align="left"">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right"">
+      <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-light-mode-only" align="right">
   <hr>
     <h3 align="center"><a href="https://github.com/NotDarkn/website">Darkn's Website</a></li></h3>
     <p align="center">Website full of rehosts, propaganda, downloads, and many more, all for anybody to see.</p>
