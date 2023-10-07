@@ -20,7 +20,7 @@
     <p align="center">
         Website with a <a href="https://osu.bio/sh1mmer">SH1mmer Rehost</a>, downloads for <a href=
         "https://recomod.osu.bio">RecoMod</a> and <a href="https://dl.osu.bio">SH1mmer</a>, fake propaganda
-        towards an r/Jailbreak developer called <a href="https://osu.bio/icraze">iCraze</a>, and much more.
+        towards <a href="https://osu.bio/icraze">iCraze</a>, and much more.
     </p>
         <hr>
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/5c18c6da-a336-4df6-a304-2e737b002b9a" alt="Darkn's Website">
