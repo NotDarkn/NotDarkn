@@ -1,7 +1,7 @@
 <h1 align="center">Darkn</h1>
     <p align="center">
       <b>Hi!</b> I'm <a href="https://discord.com/users/829745505784692776">@notdarkn</a>, or Darkn. I'm a
-      15-year-old GitHub users who likes to fuck around with shit like <a href="https://reddit.com/r/chrultrabook">Chromebooks</a> 
+      15-year-old GitHub user who likes to fuck around with shit like <a href="https://reddit.com/r/chrultrabook">Chromebooks</a> 
       or <a href="https://reddit.com/r/jailbreak">Jailbreaks</a>.
     </p>
     <p align="center">
