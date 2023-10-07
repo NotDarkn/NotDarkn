@@ -19,7 +19,8 @@
     <h3 align="center"><a href="https://github.com/NotDarkn/website">Darkn's Website</a></li></h3>
     <p align="center">Website full of rehosts, propaganda, downloads, and many more, all for anybody to see.</p>
         <hr>
-    <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/4caee029-2648-431e-b249-da070214ec01" alt="Darkn's Website">
+    <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/5c18c6da-a336-4df6-a304-2e737b002b9a" alt="Darkn's Website">
+
   <hr>
     <h3 align="center"><a href="https://github.com/NotDarkn/XinaA15">XinaA15 Reworded</a></li></h3>
     <p align="center">Full remake of an unprofessional-looking XinaA15 GitHub to something proper.</p>
