@@ -55,6 +55,10 @@
       <a href="https://twitter.com/notdarkn">
         <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/745/small/twitter-logo-twitter-icon-transparent-free-free-png.png" width="128" height="auto">
       </a>
+      <a href="https://steamcommunity.com/id/notdarkn/">
+        <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/4c709b7a-31d4-4559-a215-a2dc517e3f6f" width="128" height="auto">
+      </a>
+    </p>
     <p align="center">
       <a href="https://discord.com/users/829745505784692776">
         <img src="https://lanyard.cnrad.dev/api/829745505784692776?borderRadius=20px&bg=hlUAHL&idleMessage=Either%20offline,%20busy,%20or%20ignoring%20you...">
