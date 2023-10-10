@@ -50,7 +50,7 @@
     </p>
     <p align="center">
       <a href="https://discord.com/users/829745505784692776">
-        <img src="htps://osu.bio/img/discord-icon.png" width="128" height="auto">
+        <img src="https://osu.bio/img/discord-icon.png" width="128" height="auto">
       </a>
       <a href="https://twitter.com/notdarkn">
         <img src="https://osu.bio/img/twitter-icon.png" width="128" height="auto">
