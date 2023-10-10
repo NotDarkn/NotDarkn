@@ -16,7 +16,7 @@
       <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-dark-mode-only" align="right" width="35%" height="auto">
       <img src="https://raw.githubusercontent.com/NotDarkn/github-stats/master/generated/languages.svg#gh-light-mode-only" align="right" width="35%" height="auto">
   <hr>
-    <h3 align="center"><a href="https://github.com/NotDarkn/website">Darkn's Website</a></li></h3>
+    <h3 align="center"><a href="https://github.com/NotDarkn/website"> ‎  ‎  ‎ Darkn's Website</a></li></h3>
     <p align="center">
         Website with a <a href="https://osu.bio/sh1mmer">SH1mmer Rehost</a>, downloads for <a href=
         "https://recomod.osu.bio">RecoMod</a> and <a href="https://dl.osu.bio">SH1mmer</a>, fake propaganda
@@ -27,7 +27,7 @@
 
   <hr>
     <h3 align="center">
-        <a href="https://github.com/NotDarkn/XinaA15">XinaA15 Reworded</a>
+        <a href="https://github.com/NotDarkn/XinaA15"> ‎  ‎  ‎ XinaA15 Reworded</a>
     </h3>
     <p align="center">
         Full remake of an unprofessional-looking XinaA15 GitHub to something proper.
@@ -35,7 +35,7 @@
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/282469ce-a151-479e-aef0-bd9d2ef8bb5d" alt="XinaA15 Reworded Banner">
   <hr>
     <h3 align="center">
-        <a href="https://github.com/NotDarkn/website">Archives</a>
+        <a href="https://github.com/NotDarkn/website"> ‎  ‎  ‎ Archives</a>
     </h3>
     <p align="center">
         Repository full of archives of various things, such as IMSCARED saves or ROBLOX exploits.
