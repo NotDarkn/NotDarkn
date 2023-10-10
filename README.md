@@ -57,6 +57,6 @@
       </a>
     <p align="center">
       <a href="https://discord.com/users/829745505784692776">
-        <img src="https://lanyard.cnrad.dev/api/829745505784692776">
+        <img src="https://lanyard.cnrad.dev/api/829745505784692776?borderRadius=20px&bg=hlUAHL&idleMessage=Either%20offline%20or%20ignoring%20you...">
       </a>
     </p>
