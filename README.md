@@ -46,7 +46,7 @@
       <a href="https://github.com/NotDarkn"> ‎  ‎  ‎ Contacts</a>
     </h3>
     <p align="center">
-        Complete List of Available & Active Contacts.
+        <i>Click on the images for URL Redirects!</i>
     </p>
     <p align="center">
       <a href="https://discord.com/users/829745505784692776">
