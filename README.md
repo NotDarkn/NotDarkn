@@ -42,9 +42,12 @@
     </p>
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/e25028fd-6db0-4d30-ba0a-981fa938f28a" alt="Archives">
   <hr>
-    <h2 align="center">
+    <h3 align="center">
       Contacts
-    </h2>
+    </h3>
+    <p align="center">
+        <i>List of Active Platforms I'm On</i>
+    </p>
       <a href="https://discord.com/users/829745505784692776">
         <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" width="128" height="auto">
       </a>
