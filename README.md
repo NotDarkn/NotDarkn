@@ -43,14 +43,20 @@
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/e25028fd-6db0-4d30-ba0a-981fa938f28a" alt="Archives">
   <hr>
     <h3 align="center">
-      <a href="https://github.com/NotDarkn">Contacts</a>
+      <a href="https://github.com/NotDarkn"> ‎  ‎  ‎ Contacts</a>
     </h3>
     <p align="center">
-        Complete List of Available & Active Contacts. ‎  ‎  ‎ 
+        Complete List of Available & Active Contacts.
     </p>
+    <p align="center">
       <a href="https://discord.com/users/829745505784692776">
         <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png" width="128" height="auto">
       </a>
       <a href="https://twitter.com/notdarkn">
         <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/745/small/twitter-logo-twitter-icon-transparent-free-free-png.png" width="128" height="auto">
       </a>
+    <p align="center">
+      <a href="https://discord.com/users/829745505784692776">
+        <img src="https://lanyard.cnrad.dev/api/829745505784692776">
+      </a>
+    </p>
