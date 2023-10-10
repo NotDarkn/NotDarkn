@@ -56,7 +56,7 @@
         <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/745/small/twitter-logo-twitter-icon-transparent-free-free-png.png" width="128" height="auto">
       </a>
       <a href="https://steamcommunity.com/id/notdarkn">
-        <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/4c709b7a-31d4-4559-a215-a2dc517e3f6f" width="128" height="auto">
+        <img src="https://cdn.discordapp.com/attachments/892067098728230963/1161316228367921162/steam.png?ex=6537db05&is=65256605&hm=cca1c079d91d6d70b0d0902060b50eb26c09fddb1e2159794c5b177df146beb1&" width="128" height="auto">
       </a>
     </p>
     <p align="center">
