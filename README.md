@@ -50,13 +50,13 @@
     </p>
     <p align="center">
       <a href="https://discord.com/users/829745505784692776">
-        <img src="https://osu.bio/img/discord-icon.png" width="128" height="auto">
+        <img src="https://i.imgur.com/HgS0pmK.png" width="128" height="auto">
       </a>
       <a href="https://twitter.com/notdarkn">
-        <img src="https://osu.bio/img/twitter-icon.png" width="128" height="auto">
+        <img src="https://i.imgur.com/3KQIOqC.png" width="128" height="auto">
       </a>
       <a href="https://steamcommunity.com/id/notdarkn">
-        <img src="https://osu.bio/img/steam-icon.png" width="128" height="auto">
+        <img src="https://i.imgur.com/KwGI7Xc.png" width="128" height="auto">
       </a>
     </p>
     <p align="center">
