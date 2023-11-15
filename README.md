@@ -46,7 +46,7 @@
       <a href="https://osu.bio"> ‎  ‎  ‎ Contacts</a>
     </h3>
     <p align="center">
-        <i>Click on the images for URL Redirects!</i>
+        <i>Click on the images to be Redirected!</i>
     </p>
     <p align="center">
       <a href="https://discord.com/users/829745505784692776">
