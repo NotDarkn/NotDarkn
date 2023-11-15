@@ -43,7 +43,7 @@
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/e25028fd-6db0-4d30-ba0a-981fa938f28a" alt="Archives">
   <hr>
     <h3 align="center">
-      <a href="https://github.com/NotDarkn"> ‎  ‎  ‎ Contacts</a>
+      <a href="https://osu.bio"> ‎  ‎  ‎ Contacts</a>
     </h3>
     <p align="center">
         <i>Click on the images for URL Redirects!</i>
