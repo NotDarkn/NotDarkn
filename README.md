@@ -35,14 +35,6 @@
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/282469ce-a151-479e-aef0-bd9d2ef8bb5d" alt="XinaA15 Reworded Banner">
   <hr>
     <h3 align="center">
-        <a href="https://github.com/NotDarkn/website"> ‎  ‎  ‎ Archives</a>
-    </h3>
-    <p align="center">
-        Repository full of archives of various things, such as IMSCARED saves or ROBLOX exploits.
-    </p>
-    <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/e25028fd-6db0-4d30-ba0a-981fa938f28a" alt="Archives">
-  <hr>
-    <h3 align="center">
       <a href="https://github.com/NotDarkn"> ‎  ‎  ‎ Contacts</a>
     </h3>
     <p align="center">
