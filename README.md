@@ -23,7 +23,7 @@
         towards <a href="https://osu.bio/icraze">iCraze</a>, and much more.
     </p>
         <hr>
-    <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/5c18c6da-a336-4df6-a304-2e737b002b9a" alt="Darkn's Website">
+    <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/7a094f1b-fac9-476b-8d3c-134049f25908" alt="Darkn's Website">
 
   <hr>
     <h3 align="center">
