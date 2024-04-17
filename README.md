@@ -18,9 +18,9 @@
   <hr>
     <h3 align="center"><a href="https://github.com/NotDarkn/website"> ‎  ‎  ‎ Darkn's Website</a></li></h3>
     <p align="center">
-        Website with a <a href="https://osu.bio/sh1mmer">SH1mmer Rehost</a>, downloads for <a href=
-        "https://recomod.osu.bio">RecoMod</a> and <a href="https://dl.osu.bio">SH1mmer</a>, fake propaganda
-        towards <a href="https://osu.bio/icraze">iCraze</a>, and much more.
+        Website with a <a href="https://darkn.bio/sh1mmer">SH1mmer Rehost</a>, downloads for <a href=
+        "https://dl.darkn.bio/E-Halcyon">RecoMod</a> and <a href="https://dl.darkn.bio">SH1mmer</a>, fake propaganda
+        towards <a href="https://darkn.bio/icraze">iCraze</a>, and much more.
     </p>
         <hr>
     <img src="https://github.com/NotDarkn/NotDarkn/assets/73033672/7a094f1b-fac9-476b-8d3c-134049f25908" alt="Darkn's Website">
